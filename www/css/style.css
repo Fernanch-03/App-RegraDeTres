@@ -1,5 +1,10 @@
 #figo{
   position: absolute;
-  margin: center; 
+  left:30%;
+  text-align: center;
 }
 
+body{
+  background-color: gainsboro;
+
+}
